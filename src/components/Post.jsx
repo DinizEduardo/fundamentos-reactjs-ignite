@@ -19,7 +19,10 @@ export function Post() {
         <p>Fala galera</p>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non provident laborum quis voluptate similique. Ratione ea asperiores optio nisi ad ipsam rem aspernatur ducimus! Eveniet ipsum quaerat consectetur voluptas aut.</p>
         <p><a href=""> Bla bla </a></p>
-        <p><a href="">#novoprojeto #nlw</a></p>
+        <p>
+          <a href="">#novoprojeto </a>{' '}
+          <a href="">#nlw</a>{' '}
+        </p>
       </div>
     </article>
   )
